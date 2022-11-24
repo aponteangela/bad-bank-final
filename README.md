@@ -1,12 +1,11 @@
 # BadBanking
-*Bad Bank Application - MIT Portfolio Project*
+*Bad Bank Application - Final MIT Portfolio Project*
 <br>
 ### ***Bad Bank Application - MIT Portfolio Project*** <br>
-The goal of this exercise was to write, test, and deploy the "bad" banking application to the AWS.
+The goal of this exercise was to write, test, and deploy the "bad" banking application with authentication, database, api.
 
 ### **Description**<br>
-Functionality, testing and deployment on AW3 3.
-https://angela-apontebankingapplication.s3.amazonaws.com/index.html#/
+Functionality, testing and deployment.
 
 Form/Validation/StoringUserData
 
